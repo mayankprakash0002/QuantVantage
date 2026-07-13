@@ -1,18 +1,21 @@
-# Welcome to your Lovable project
+# Welcome to your QuantVantage project
+
+QuantVantage is a comprehensive stock market analysis platform built for serious traders. It provides users with advanced, paid charting tools and curated daily market blogs to stay ahead of market trends.
+
+#Future Enhancements
+
+- **Real-time Data Integration**: Implement real-time stock data feeds to provide users with up-to-the-minute market information.
+- **AI-Powered Insights**: Integrate AI algorithms to analyze market trends and provide predictive insights for better trading decisions.
+- **Customizable Dashboards**: Allow users to create personalized dashboards with their preferred charts, indicators, and news feeds.
+- **Mobile App Development**: Develop a mobile application to provide users with access to market analysis and tools on-the-go
 
 ## Project info
 
-**URL**: https://lovable.dev/projects/60518e70-12a3-4467-be99-7b30d335d1c2
+**URL**: URL of your project will be available here once you publish it.
 
 ## How can I edit this code?
 
 There are several ways of editing your application.
-
-**Use Lovable**
-
-Simply visit the [Lovable Project](https://lovable.dev/projects/60518e70-12a3-4467-be99-7b30d335d1c2) and start prompting.
-
-Changes made via Lovable will be committed automatically to this repo.
 
 **Use your preferred IDE**
 
@@ -59,15 +62,3 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
-
-## How can I deploy this project?
-
-Simply open [Lovable](https://lovable.dev/projects/60518e70-12a3-4467-be99-7b30d335d1c2) and click on Share -> Publish.
-
-## Can I connect a custom domain to my Lovable project?
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/tips-tricks/custom-domain#step-by-step-guide)
